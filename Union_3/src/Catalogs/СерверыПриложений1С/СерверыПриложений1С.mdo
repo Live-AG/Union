@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="93677bab-eb3a-4c20-9249-4c8ec4c3fbc5">
+  <producedTypes>
+    <objectType typeId="71f32679-083f-43e3-b9ec-3a161f9d9956" valueTypeId="3b5ad851-23af-4a7d-b40f-49fbdc8d3f70"/>
+    <refType typeId="2a9b8ac8-4d58-4249-890e-da3d42743cc8" valueTypeId="eb868f72-6b5a-49ec-957e-292893dfdc9f"/>
+    <selectionType typeId="c85ab7b2-1aa7-4abe-a73d-5f0fb439d861" valueTypeId="6d39e30b-5b57-4f26-9c5e-e1eebb4a3e3c"/>
+    <listType typeId="1c1c82c3-0cfa-4d3b-9aff-9a4aaa050cff" valueTypeId="0dadaee0-5b8f-44fb-911f-5ee52cf11417"/>
+    <managerType typeId="ebbafe54-2f79-4d63-86a6-c428050f386e" valueTypeId="5ffe069b-1b67-467c-bde6-db675ccf5223"/>
+  </producedTypes>
+  <name>СерверыПриложений1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Серверы приложений 1С</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СерверыПриложений1С.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СерверыПриложений1С.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="0cb079bc-2737-41b5-b4b9-000584830476">
+    <name>Версия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>
