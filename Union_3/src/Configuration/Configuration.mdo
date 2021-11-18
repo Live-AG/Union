@@ -12,6 +12,7 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="add303a9-c01c-4494-b498-e602db3ee313"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="73bab8aa-5764-4252-8271-3dc1124cecf8"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="52ac47d8-20e9-4440-a91a-643cc854585f"/>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
@@ -30,6 +31,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.20</compatibilityMode>
   <languages uuid="6d8d2b54-d54b-4e4a-932f-69860a68ba4d">
     <name>Русский</name>
     <synonym>
@@ -44,6 +46,9 @@
   <catalogs>Catalog.Конфигурации</catalogs>
   <catalogs>Catalog.СерверыБД</catalogs>
   <catalogs>Catalog.СерверыПриложений1С</catalogs>
+  <catalogs>Catalog.ПользователиИБ</catalogs>
+  <catalogs>Catalog.ХранилищаКонфигураций</catalogs>
   <enums>Enum.НазначенияИБ</enums>
   <enums>Enum.ТипыСУБД</enums>
+  <informationRegisters>InformationRegister.СоответствиеПользователейИБ</informationRegisters>
 </mdclass:Configuration>
