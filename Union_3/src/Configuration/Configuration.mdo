@@ -42,6 +42,8 @@
   </languages>
   <subsystems>Subsystem.УправлениеИБ</subsystems>
   <styles>Style.ТемныйСтиль</styles>
+  <commonPictures>CommonPicture.Сервер1С</commonPictures>
+  <commonModules>CommonModule.КомандыУтилитыRAS</commonModules>
   <catalogs>Catalog.ИнформационныеБазы</catalogs>
   <catalogs>Catalog.Конфигурации</catalogs>
   <catalogs>Catalog.СерверыБД</catalogs>

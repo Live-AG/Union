@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c917528c-52b7-4b56-8b53-a1e6ef175078">
+  <name>КомандыУтилитыRAS</name>
+  <synonym>
+    <key>ru</key>
+    <value>Команды утилиты RAS</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>
