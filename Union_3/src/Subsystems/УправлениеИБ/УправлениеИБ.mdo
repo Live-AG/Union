@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ИнформационныеБазы</content>
+  <content>Catalog.СерверыПриложений1С</content>
 </mdclass:Subsystem>
